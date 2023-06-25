@@ -5,5 +5,7 @@
   <head>
     <h1> Why do people do what they do?</h1>
   </head>
-  <body> Well, people do exactly what they</body>
+  <body> 
+      <p> Well, people do exactly what they</p> 
+  </body>
 </html>
